@@ -41,20 +41,15 @@ matplotlib
 python bank_customer_churn_prediction_using_xgboost.py
 
 
-📊 Results & Metrics
+## 📊 Results & Metrics
 
-Balanced Accuracy: Handles imbalance better than normal accuracy
+- Balanced Accuracy: Handles imbalance better than normal accuracy
+- ROC-AUC Curve: Evaluates model discrimination ability
+- Confusion Matrix: Shows misclassifications
+- Feature Importances: Identifies top churn drivers
 
-ROC-AUC Curve: Evaluates model discrimination ability
+- Example plots:
 
-Confusion Matrix: Shows misclassifications
-
-Feature Importances: Identifies top churn drivers
-
-Example plots:
-
-ROC Curve for churn prediction
-
-Accuracy vs Balanced Accuracy
-
-Top drivers of churn
+  - ROC Curve for churn prediction
+  - Accuracy vs Balanced Accuracy
+  - Top drivers of churn
